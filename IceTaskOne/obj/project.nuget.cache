@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yxq6xni5hDlus168OIGcdd5oyslhJL1fzPGZFolRM6C9oYzEiyITSshW/dTGauSKz1ywi3PJpThHLkqUh6+aow==",
+  "dgSpecHash": "ulq1LmGTxt8f7jQgvk7fvba6dkYHUf5xFSKvHlSJh1BZ8lSlvawLj9EH2Agm71px2wR7LdlKcUukZC//8T1wyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\IceTaskOne\\IceTaskOne\\IceTaskOne.csproj",
+  "projectFilePath": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\IceTaskOne\\IceTaskOne_CLDV6211_ST10250507\\IceTaskOne\\IceTaskOne.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lab_services_student\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IceTaskOne")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+022c49e309ef30d4ae9b3ab679114a071d0741d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("IceTaskOne")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IceTaskOne")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
