@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Type";
+}
+
+<h2>Type of Instrument</h2>
+
+<ul>
+    @for (int i = 0; i < (int)ViewData["NumIns"]!; i++)
+    {
+        <li>@ViewData["Message"]</li>
+    }
+</ul>
